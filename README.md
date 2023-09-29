@@ -10,3 +10,10 @@ It's built using:
 - Ethers
 - TailwindCSS
 
+To run this app:
+```bash
+cd web
+npm run dev
+```
+
+If you want to see how to build this, head over to: https://youtu.be/bbSLJy-7tm0
